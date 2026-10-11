@@ -81,7 +81,7 @@ header {
   width: 100%;
   margin: 0 auto;
 }
-row {
+.row {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
@@ -143,7 +143,7 @@ background-color: #fefefe;
 }
 
 .hero__img--wrapper {
-  max-width 540px;
+  max-width: 540px;
 }
 
 .hero__description {
@@ -229,7 +229,7 @@ border-right: 20px solid #ef4810;
 }
 
 .section__description--wrapper {
-  width: 70px;
+  width: 70%;
   padding: 0 24px;
 }
 
